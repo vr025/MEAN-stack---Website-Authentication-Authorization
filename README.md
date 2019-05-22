@@ -11,9 +11,7 @@
   
 
 
-  <link crossorigin="anonymous" media="all" integrity="sha512-UFMpXZiU8/kG0aZl62l3OFZi0gwlVRLYrsamBbXttDRSbDmQk1ZyKj5R11ghzrHB/NaIPBuLauI34mVpsuxx5w==" rel="stylesheet" href="https://github.githubassets.com/assets/frameworks-94eca081886beb7440fa7236f4fd103f.css" />
-  
-    <link crossorigin="anonymous" media="all" integrity="sha512-bJZUVQbR93EAr62jqiZBJYMijx0cOpvVYS2dN72ZIb6OTLpsv+uZbst6LIKt/lEf7sDFtB69Q8wA6aRDOuDKxQ==" rel="stylesheet" href="https://github.githubassets.com/assets/github-bc6ece23fecc96a2f876e4e47344affe.css" />
+  <link crossorigin="anonymous" media="all" integrity="sha512-UFMpXZiU8/kG0aZl62l3OFZi0gwlVRLYrsamBbXttDRSbDmQk1ZyKj5R11ghzrHB/NaIPBuLauI34mVpsuxx5w==" rel="stylesheet" href="https:/2dN72ZIb6OTLpsv+uZbst6LIKt/lEf7sDFtB69Q8wA6aRDOuDKxQ==" rel="stylesheet" href="https://github.githubassets.com/assets/github-bc6ece23fecc96a2f876e4e47344affe.css" />
     
     
     
